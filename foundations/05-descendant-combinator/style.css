@@ -5,3 +5,6 @@ div .text{
     text-align: center;
 }
 
+.container {
+    opacity: .1;
+}
