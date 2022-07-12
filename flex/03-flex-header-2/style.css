@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-  background: white;
+  background: rgba(0, 0, 0, 0.849);
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
   display: flex;
